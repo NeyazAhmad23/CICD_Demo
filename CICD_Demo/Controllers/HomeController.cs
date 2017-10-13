@@ -22,7 +22,7 @@ namespace CICD_Demo.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page...";
+            ViewBag.Message = "Your contact page...!!";
 
             return View();
         }
